@@ -28,7 +28,7 @@
 docker-compose up --build
 ```
 
-### 2. Откройте в браузере
+### 2. Открыть в браузере
 
 * **Streamlit UI:** [http://localhost:8501](http://localhost:8501)
 * **API Docs (Swagger):** [http://localhost:8000/docs](http://localhost:8000/docs)
