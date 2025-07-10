@@ -9,7 +9,7 @@
 
 ```
 .
-├── app.py                  # Streamlit UI
+├── app.py                 # Streamlit UI
 ├── api.py                 # FastAPI REST API
 ├── rag_pipeline.py        # Основной пайплайн RAG
 ├── requirements.txt
