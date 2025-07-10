@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+requests
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+sentence-transformers
+chromadb
+PyMuPDF
